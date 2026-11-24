@@ -1,0 +1,26 @@
+{
+  "name": "claude-options-trading-skills",
+  "description": "Free Claude Code skills for options software: pricing, Greeks and implied volatility, multi-leg payoffs, option chain data, multi-leg orders on IBKR/Alpaca/Tradier/Kite, NSE/SEBI F&O rules and honest options backtests.",
+  "owner": {
+    "name": "Viprasol Tech",
+    "url": "https://viprasol.com"
+  },
+  "plugins": [
+    {
+      "name": "options-desk",
+      "source": "./plugins/options-desk",
+      "description": "6 skills: options-pricing, options-strategies, options-data, options-orders, india-fno-rules and options-backtesting, with a tested pricing/IV calculator and multi-leg payoff tool.",
+      "category": "finance",
+      "tags": [
+        "options",
+        "greeks",
+        "implied-volatility",
+        "black-scholes",
+        "nifty",
+        "spx",
+        "interactive-brokers",
+        "algo-trading"
+      ]
+    }
+  ]
+}

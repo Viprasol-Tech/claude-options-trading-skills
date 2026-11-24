@@ -1,0 +1,35 @@
+{
+  "name": "options-desk",
+  "displayName": "Options Desk",
+  "version": "1.0.0",
+  "description": "Claude Code skills for options engineering: Black-Scholes-Merton and Black-76 pricing, Greeks with explicit units, a robust implied-volatility solver, exact multi-leg payoffs and breakevens, OCC/OSI symbols and chain data hygiene, multi-leg orders on Interactive Brokers, Alpaca, Tradier and Zerodha Kite, NSE/SEBI F&O rules (Tuesday expiries, lot sizes, expiry-day margin, STT 2026) and options backtesting without fantasy fills.",
+  "author": {
+    "name": "Viprasol Tech",
+    "email": "support@viprasol.com",
+    "url": "https://viprasol.com"
+  },
+  "homepage": "https://github.com/Viprasol-Tech/claude-options-trading-skills",
+  "repository": "https://github.com/Viprasol-Tech/claude-options-trading-skills",
+  "license": "MIT",
+  "keywords": [
+    "options",
+    "options-trading",
+    "greeks",
+    "implied-volatility",
+    "black-scholes",
+    "black-76",
+    "iron-condor",
+    "nifty",
+    "banknifty",
+    "nse",
+    "sebi",
+    "spx",
+    "0dte",
+    "interactive-brokers",
+    "alpaca",
+    "tradier",
+    "zerodha",
+    "backtesting",
+    "claude-code-skills"
+  ]
+}
